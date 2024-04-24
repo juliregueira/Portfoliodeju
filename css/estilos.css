@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
+
+
+img { width: 35%; display: block ; margin:auto; border-radius: 50%; }
+
+
+
+#MiTitulo {color: #0500FF; text-align: center; text-decoration: wavy #ff5100 underline; font-family: "Inter"; font-weight:400%; font-size:300%}
+
+#MiSubtitulo {color: #000000; text-align: center; font-family: "Inter"; font-weight:300}
+
+#MisTitularesLeft {color: #0500FF; text-align:left; font-family: "Inter"; font-weight:800; background-color: #ff5100; font-size:150%;}
+
+#MisTitularesRight {color: #ff5100; text-align:right; font-family: "Inter"; font-weight:800; background-color: #0500FF; font-size:150%}
+
+#MisTitularesCenter {color: #0500FF; text-align:center; font-family: "Inter"; font-weight:600}
+
+#MisParrafos { color: #000000; text-align: center; font-family: "Sedan"; font-weight:100 }
+
+#MisBotones { color: #0500FF; text-align:left; font-family: "Inter"; font-weight:400; }
+
+
+
+a:link { color: #0500FF;}
+a:visited { color: #ff5100; }
+a:hover {  text-decoration: none;}
+a:active { color: #000000;}
